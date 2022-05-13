@@ -7,7 +7,6 @@ const ManageExpense = () => {
         <View>
             <Text>
                 ManageExpense
-                <Ionicons name="hourglass" size={size} color={color} />
             </Text>
         </View>
     )
